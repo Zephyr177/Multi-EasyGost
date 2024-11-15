@@ -16,8 +16,8 @@
   `wget --no-check-certificate -O gost.sh https://github.com/Zephyr177/Multi-EasyGost/raw/v2/gost.sh && chmod +x gost.sh && ./gost.sh`
   国内机子用
   ```shell script
-wget --no-check-certificate -O iptables.sh https://raw.githubusercontent.com/Zephyr177/note/main/iptables-pf.sh && bash iptables.sh
-```
+  wget --no-check-certificate -O gost.sh https://gh-proxy.com/https://github.com/Zephyr177/Multi-EasyGost/raw/v2/gost.sh && chmod +x gost.sh && ./gost.sh
+  ```
 * 再次运行本脚本只需要输入`./gost.sh`回车即可  
 
 > 注：由于 gost v2.11.2 功能稳定，此脚本将一直采用该版本，后续不再跟随官方更新
